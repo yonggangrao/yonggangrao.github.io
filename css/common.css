@@ -1,0 +1,30 @@
+body
+{
+	/*background-color: #;*/
+	/*color: #EDEDED;*/
+	font-family: "Ubuntu Mono","微软雅黑", sans-serif;
+}
+a
+{
+	color: #000000;
+}
+hr
+{
+    
+    border:0;
+    border-bottom: 1px solid #ccc;
+    
+}
+.body-left
+{
+    width:70%;
+    display:inline-block;
+    /*float:left;*/
+}
+.body-right
+{
+    width:24%;
+    /*float:left;*/
+    display:inline-block;
+    margin-left:10px;
+}
